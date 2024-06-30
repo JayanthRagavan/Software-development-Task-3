@@ -1,0 +1,8 @@
+Features of the Program:
+
+Persistent Storage: Contacts are stored in a JSON file (contacts.json) to ensure data persistence.
+Add Contact: Users can add new contacts through dialog boxes for name, phone number, and email address.
+View Contacts: All contacts are displayed in a listbox.
+Edit Contact: Users can select a contact and edit its information.
+Delete Contact: Users can select a contact and delete it.
+Graphical User Interface: Provides a user-friendly GUI with buttons for each action.
